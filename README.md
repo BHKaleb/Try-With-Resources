@@ -1,4 +1,4 @@
-# Try-With-Resources
+# Try-with-Resources
 
 The motivation behind this project was to figure out the
 real life usage and implementation of the try-with-resources
